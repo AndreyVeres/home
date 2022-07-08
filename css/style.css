@@ -160,6 +160,11 @@ body {
 }
 
 .layout__item {
+  
+    margin-bottom: 50px;
+}
+
+.item__box{
     display: flex;
     justify-content: space-between;
 }
@@ -183,6 +188,11 @@ body {
 .projects__item {
     text-align: left;
     margin-bottom: 200px;
+}
+
+.layout__item-descr {
+    text-align: center;
+    padding: 15px 0;
 }
 
 .project__header {
